@@ -7,15 +7,20 @@ SIMBA (Secure Intune macOS Baseline Assistant) is a tool designed to streamline 
 - Automated macOS device enrollment into Microsoft Intune
 - Application of Microsoft security baselines during enrollment
 - Real-time monitoring and compliance reporting
-
-## Acknowledgments 
-
-- Inspired by the Installomator project.
-- Thanks to the open-source community for their continuous support.
   
 ## Getting Started
 
-To get started with SIMBA, clone the repository:
+To get started with SIMBA, clone the repository
 
-```bash
-git clone https://github.com/your-username/SIMBA.git
+## Contributing
+
+Contributions are welcome! Please see `CONTRIBUTING.md` for details on how to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Acknowledgments
+
+- Inspired by the Installomator project.
+- Thanks to the open-source community for their continuous support.
