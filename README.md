@@ -8,6 +8,11 @@ SIMBA (Secure Intune macOS Baseline Assistant) is a tool designed to streamline 
 - Application of Microsoft security baselines during enrollment
 - Real-time monitoring and compliance reporting
 
+## Acknowledgments 
+
+- Inspired by the Installomator project.
+- Thanks to the open-source community for their continuous support.
+  
 ## Getting Started
 
 To get started with SIMBA, clone the repository:
